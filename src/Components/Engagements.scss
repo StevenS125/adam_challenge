@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+.Econtainer {
+    width: 410px;
+    height: 420px;
+    float: left;
+}
+
+.title {
+    width: 330px;
+    height: 14px;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 14px;
+    letter-spacing: 2px;
+    color: #777777;
+    text-align: left;
+    margin: 40px auto 20px auto;
+}
+
+h1 {
+    width: 330px;
+    height: 31px;
+    text-align: left;
+    color: #444444;
+    margin: 0px auto;
+    font-display: "Roboto";
+    font-size: 32px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+.titleLeft {
+    float:left;
+}
+
+.titleRight {
+    float: right;
+    font-size: 22px;
+    line-height: 2.5;
+}
+
+.btnSwitch {
+    float: left;
+    margin: 0 3px;
+}
+
+.btnSwitch:hover {
+    cursor: pointer;
+}
+
+main {
+    width: 330px;
+    height: 231px;
+    margin: 50px auto;
+}
+
+.mainLeft {
+width: 160px;
+height: 231px;
+float: left;
+}
+
+.caption {
+    width: 160px;
+    height: 63px;
+    text-align: left;
+    font-size: 12px;
+    font-family: "Roboto";
+    color: #777777;
+    letter-spacing: 1px;
+    margin: 0 5px 10px 0;
+
+}
+
+.smImg1 {
+    float: left;
+    margin: 0 5px 5px 0;
+}
+
+.smImg2 {
+    float: left;
+    margin: 0 0 5px 5px;
+}
+
+.smImg3 {
+    float: left;
+    margin: 5px 5px 0 0;
+}
+
+.smImg4 {
+    float: left;
+    margin: 5px 0 0 5px;
+}
+
+.mainRight {
+width: 160px;
+height: 231px;
+float: right;
+}

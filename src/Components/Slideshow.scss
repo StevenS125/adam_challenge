@@ -1,0 +1,25 @@
+.Scontainer {
+    width: 540px;
+    height: 420px;
+    float: right;
+    position: relative;
+    z-index: 0;
+}
+
+.bgImg {
+    z-index: 500;
+    position: relative;
+}
+
+.controls {
+    width: 120px;
+    height: 35px;
+    margin: 0 auto 0 auto;
+    z-index: 600;
+    position: relative;
+}
+
+.btnSwitch {
+    position: relative;
+    z-index: 600;
+}
