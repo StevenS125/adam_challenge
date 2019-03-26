@@ -11,7 +11,6 @@ export default class Slider extends Component {
       <div className="sliderContainer">
         <Engagements />
         <Slideshow />
-
       </div>
     );
   }
